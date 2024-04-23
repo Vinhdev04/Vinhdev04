@@ -1,7 +1,7 @@
 <div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!‘;+I'm+Cong+Vinh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!â€˜;+I'm+Cong+Vinh!;" />
 </h1>
 
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
@@ -12,7 +12,7 @@
 
 I'm based in Vietnamese
 
-­ I'm currently working on **a chat app**
+Â­ I'm currently working on **a chat app**
 
 Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
@@ -22,7 +22,7 @@ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
   <a href="mailto:pcv.fed@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/thanhtin/" target="_blank">
+  <a href="https://www.linkedin.com/in/ph%E1%BA%A1m-c%C3%B4ng-vinh-27065b272/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://vinhdev04.github.io/Landing_page/" target="_blank">
