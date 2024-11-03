@@ -1,7 +1,7 @@
-<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
+<div align="center"> <img src="https://cdn4.iconfinder.com/data/icons/avatars-xmas-giveaway/128/batman_hero_avatar_comics-512.png"> </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!‘;+I'm+Công+Vinh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=‘Hi+Everyone!‘;+I'm+Công+Vinh!;+Nice+to+meet+you!" />
 </h1>
 
 <h3 align="center">I'm a Web Developer and UI/UX designer</h3>
@@ -55,7 +55,7 @@ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
 <hr/>
 <br>
-<h2 align="center"> GitHub Stats </h2>
+<h2 align="center"> GitHub Status </h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
